@@ -61,8 +61,7 @@
     max-width: 30ch;
     margin-bottom: 0;
     background-color: var(--color-light);
-    box-shadow: 0 2px 5px rgba(90, 40, 255, 0.15);
-
+    box-shadow: 0 2px 5px rgba(var(--color-primary-rgb, 58, 0, 255), 0.15);
     ul {
       justify-content: unset;
 
